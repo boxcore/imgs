@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- 浅蓝色聊天气泡 (左上) -->
+  <rect x="5" y="15" width="70" height="70" rx="20" ry="20" fill="#33D4FF" />
+  
+  <!-- 深蓝色聊天气泡 (右下) 带白色边框 -->
+  <rect x="45" y="35" width="70" height="70" rx="20" ry="20" fill="#0066FF" stroke="white" stroke-width="5" />
+  
+  <!-- 笑脸 -->
+  <path d="M 65 75 Q 80 85 95 75" stroke="white" stroke-width="6" stroke-linecap="round" fill="none" />
+</svg>
